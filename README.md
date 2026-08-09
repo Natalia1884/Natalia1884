@@ -4,6 +4,7 @@
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/whatsapp-green?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp Badge"/>
+   <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
 </div>
 
 
