@@ -2,7 +2,7 @@
   <h1> Привет, меня зовут Наталья  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
   <h3>Я Аналитик данных / Продуктовый аналитик</h3>
 </div>
-
+<div><a title="Whatsapp" href="whatsapp://send?phone=79058615715"><img src="images/whatsapp_icon.jpg" alt="Написать в Whatsapp" /></a></div>
 
 
 <!--
