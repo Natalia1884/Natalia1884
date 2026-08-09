@@ -18,7 +18,7 @@
 ### Языки и инструменты:
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-gray?logo=Python" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/SQL-gray?logo=SQL" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-gray?logo=PostgreSQL" alt="PostgreSQL Badge"/>
 </div>
 
 <!--
