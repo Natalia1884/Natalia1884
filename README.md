@@ -2,13 +2,11 @@
   <h1> Привет, меня зовут Наталья  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
   <h3>Я Аналитик данных / Продуктовый аналитик</h3>
 </div>
-<style>
-/* Стили кнопки */
-.iksweb{display: inline-block;cursor: pointer; font-size:14px;text-decoration:none;padding:10px 20px; color:#091b29;background:#2ded3a;border-radius:0px;border:2px solid #354251;}
-.iksweb:hover{background:#354251;color:#ffffff;border:2px solid #354251;transition: all 0.2s ease;}
-</style>
+<div id="badges">
+  <img src="https://img.shields.io/badge/whatsapp-green?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp Badge"/>
+</div>
 
-<a class="iksweb" href="whatsapp://sendphone79058615715" title="WhatsApp">WhatsApp</a>
+
 
 <!--
 **Natalia1884/Natalia1884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
