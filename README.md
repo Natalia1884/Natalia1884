@@ -2,7 +2,7 @@
   <h1> Привет, меня зовут Наталья  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
   <h3>Я Аналитик данных / Продуктовый аналитик</h3>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://wa.me/79058615715">
   <img src="https://img.shields.io/badge/whatsapp-green?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp Badge"/>
   </a>
