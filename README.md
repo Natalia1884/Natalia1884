@@ -3,8 +3,12 @@
   <h3>Я Аналитик данных / Продуктовый аналитик</h3>
 </div>
 <div id="badges">
+  <a href="your-linkedin-URL">
   <img src="https://img.shields.io/badge/whatsapp-green?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp Badge"/>
-   <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+   <a href="your-linkedin-URL">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+   </a>
 </div>
 
 
