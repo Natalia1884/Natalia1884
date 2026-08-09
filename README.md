@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1> Привет, меня зовут Наталья</h1>  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  <h1> Привет, меня зовут Наталья  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
 </div>
 <!--
 **Natalia1884/Natalia1884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
